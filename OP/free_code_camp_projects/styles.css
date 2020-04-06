@@ -1,0 +1,43 @@
+body
+{
+  
+  font-family: 'Oswald', sans-serif;
+}
+#image
+{
+    text-align: start;
+    width: 400px;
+    height: 600px;
+}
+#image-caption
+{
+  text-align: center;
+  padding-left: 100px;
+}
+
+h1
+{
+  text-align: center;
+  background-color: #D2E3FD;
+}
+h2
+{
+ 
+  text-align: center;
+  background-color: #D2E3FD;
+}
+p
+{
+  
+  text-align: center;
+}
+ul
+{
+  
+  width: 300;
+  float: center;
+  padding-right: 100px;
+  padding-bottom: 20px;
+  float: right;
+
+}
