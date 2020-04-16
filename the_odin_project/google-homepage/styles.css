@@ -1,0 +1,167 @@
+body
+{
+    font-family: arial;
+}
+#center-of-page
+{
+    padding: 150px 0 200px 0;
+    text-align: center;
+}
+#google-search
+{
+    width: 550px;
+    height: 40px;
+    border-radius: 25px;
+    box-shadow: 10px;
+}
+#google-image
+{
+    width: 280px;
+    padding: 0 0 20px 0;
+}
+#top-nav
+{
+  margin: 0;
+  padding: 6px 0 0 0;
+  list-style-type: none;
+  color:#404040;
+  font-size: 14px;
+}
+li
+{
+    display: inline;
+}
+#about
+{
+ padding: 0 10px 0 15px;
+ text-decoration:none;
+ color:#404040;
+
+}
+#store
+{
+ padding: 0 1065px 0 0;
+ text-decoration:none;
+ color:#404040;
+}
+#gmail
+{
+    padding-right: 20px;
+    text-decoration:none;
+ color:#404040;
+}
+#images
+{
+    padding-right: 20px;
+    text-decoration:none;
+    color:#404040;
+}
+#top-image
+{
+    position: relative;
+    right: 9px;
+    top: 8px;
+
+    width: 25px;
+}
+#sign-in
+{
+    
+    display: block;
+    float: right;
+    position: relative;
+    top: 5px;
+    right: 17px;
+    text-align: center;
+    height: 32px;
+    width: 70px;
+    border-radius: 2px;
+    background-color: #3b85ce;
+    font-size: 14px;
+    color: white;
+    border: none;
+    
+}
+#bottom-nav
+{
+    display: block;
+    height: 30px;
+    position: absolute;
+    bottom: 0;
+    margin: 0;
+    padding: 0 0 14px 0;
+    list-style-type: none;
+    color:#404040;
+    font-size: 15px;
+}
+#advertising
+{
+    padding: 0 12px 0 15px;
+    text-decoration:none;
+    color:#404040;
+}
+#business
+{
+    padding: 0 12px 0 0;
+    text-decoration:none;
+    color:#404040;
+}
+#how-search-works
+{
+    padding: 0 890px 0 0;
+    text-decoration:none;
+    color:#404040;
+}
+#privacy
+{
+    padding: 0 12px 0 0;
+    text-decoration:none;
+    color:#404040;
+}
+#terms
+{
+    padding: 0 12px 0 0;
+    text-decoration:none;
+    color:#404040;
+}
+#search-button
+{
+   display: block;
+   position: relative;
+   left: 570px;
+   top: 11px;
+   height: 36px;
+   width: 130px;
+   background-color: #f0f0f0;
+   border: none;
+   border-radius: 2px;
+   font-size: 12px;
+   color: #404040;
+}
+#im-feeling-lucky-button
+{
+    display: block;
+    position: relative;
+    bottom: 25px;
+    left: 710px;
+    height: 36px;
+    width: 130px;
+    background-color: #f0f0f0;
+    border: none;
+    border-radius: 2px;
+    font-size: 12px;
+    color: #404040;
+    
+}
+#french-google
+{
+    font-size: 12px;
+}
+#settings
+{
+    text-decoration:none;
+    color:#404040;
+}
+
+
+
